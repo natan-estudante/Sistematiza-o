@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #6c3483; 
+    color: #333;
+    
+}
+#sobre p {
+    font-size: 20px;
+    color: #fff;
+}
+#produtos p {
+    font-size: 20px;
+    color: #fff;
+}
+#equipe p {
+    font-size: 36px;
+    color: #09097b;
+}
+.member {
+    display: inline-block;
+    margin-right: 20px; 
+    vertical-align: top; 
+}
+header {
+    background-color: #6c3483; 
+    padding: 20px;
+    text-align: center;
+    color: white; /
+    
+   
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+#banner {
+    background-color: #8e44ad; 
+    color: white; 
+    padding: 50px;
+    text-align: center;
+    font-size: 24px;
+}
